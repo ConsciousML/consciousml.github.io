@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
 	//set animation timing
-	var animationDelay = 5000,
+	var animationDelay = 2500,
 		//clip effect 
 		revealDuration = 500,
 		revealAnimationDelay = 1500;
